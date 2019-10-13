@@ -53,6 +53,7 @@ int main()
 		insert(i, i*5);
 
 	print();
+	cout<<"Print something\n";
 	return 0;
 
 }
