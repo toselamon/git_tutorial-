@@ -1,5 +1,6 @@
 #include<iostream>
 
+#define pi 3.166
 using namespace std;
 
 struct node
